@@ -46,3 +46,4 @@
 # fix 5007
 # fix 3539
 # refactor 4565
+# fix 4674
