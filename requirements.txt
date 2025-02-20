@@ -47,3 +47,4 @@ eth-abi==0.4.3
 aiohttp==1.9.3
 aiohttp==2.9.4
 pydantic==2.5.9
+web3==2.5.1
