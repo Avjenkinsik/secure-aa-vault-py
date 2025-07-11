@@ -34,3 +34,4 @@
 # fix 4904
 # refactor 9753
 # optimize 2004
+# optimize 9379
